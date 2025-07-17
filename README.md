@@ -10,8 +10,6 @@
   <a href="https://docs.ai-flow.net/?ref=github"><img src="https://img.shields.io/badge/lang-English-blue.svg" alt="English"></a>
   <a href="https://docs.ai-flow.net/?ref=github"><img src="https://img.shields.io/badge/lang-French-blue.svg" alt="French"></a>
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
-  <img src="https://img.shields.io/github/v/release/DahnM20/ai-flow">
-  <a href="https://twitter.com/DahnM20"><img src="https://img.shields.io/twitter/follow/AI-Flow?style=social" alt="Follow on Twitter"></a>
 </p>
 
 <p align="center">
