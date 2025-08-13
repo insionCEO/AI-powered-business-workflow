@@ -109,7 +109,7 @@ This will start a local server and open AI-Flow in a standalone window, giving y
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/DahnM20/ai-flow.git
+   git clone https://github.com/insionCEO/ai-flow.git
    cd ai-flow
    ```
 
@@ -147,8 +147,11 @@ This will start a local server and open AI-Flow in a standalone window, giving y
 
 ## Contributing
 
-We welcome contributions! If you encounter issues or have feature ideas, please [open an issue](https://github.com/DahnM20/ai-flow/issues) or submit a pull request.
+We welcome contributions! If you encounter issues or have feature ideas, please [open an issue](https://github.com/insionCEO/ai-flow/issues) or submit a pull request.
 
 ## License
 
 This project is released under the [MIT License](LICENSE).
+
+**Telegram**: [@insionCEO](https://t.me/insionCEO)
+
